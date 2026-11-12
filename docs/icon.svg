@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 108 108" role="img" aria-label="Aurora TV">
+  <rect width="108" height="108" rx="24" fill="#070A12"/>
+  <circle cx="54" cy="54" r="42" fill="#3DDCFF"/>
+  <path d="M46 36 L74 54 L46 72 Z" fill="#070A12"/>
+  <g fill="#8B7CFF">
+    <rect x="18" y="18" width="14" height="6"/>
+    <rect x="18" y="30" width="22" height="6"/>
+  </g>
+</svg>
